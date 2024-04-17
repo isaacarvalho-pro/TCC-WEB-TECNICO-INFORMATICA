@@ -1,0 +1,71 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar{
+    margin-top: 1rem;
+    border: solid 1px;
+    text-align: center;
+}
+
+.nav-item{
+    margin: 1rem;
+    
+}
+.user{
+    display: flex;
+    justify-content: right;
+}
+
+main{
+    margin-top: 1rem;
+    width: 40rem
+
+}
+
+.main-content{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.main-content2{
+    display: flex;
+    flex-direction: row;
+
+}
+
+
+.centralizaForm{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: 1rem;
+}
+
+.div-form{
+
+    padding: 1rem;
+    margin: 1rem;
+    width: 60rem;
+    border: 1px solid;
+    border-radius: 5px;
+    
+}
+
+.divTitulo{
+    text-align: center;
+    border-bottom: 2px solid;
+}
+
+
+.fa-pen-to-square:hover{
+    color: blue;
+}
+
